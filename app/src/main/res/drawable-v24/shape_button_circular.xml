@@ -2,11 +2,11 @@
 <!--相当于做了一张圆角的图片,然后给button作为背景图片-->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
-    <solid android:color="#C2D5AC" />
-    <padding android:bottom="8dp"
-        android:left="8dp"
-        android:right="8dp"
-        android:top="8dp"/>
+    <solid android:color="#E1E1E0" />
+    <padding android:bottom="15dp"
+        android:left="15dp"
+        android:right="15dp"
+        android:top="15dp"/>
     <!--设置圆角-->
-    <corners android:radius="10dp" />
+    <corners android:radius="8dp" />
 </shape>
